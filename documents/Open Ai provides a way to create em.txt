@@ -1,0 +1,21 @@
+Open Ai provides a way to create embeddings but not to store them
+
+https://www.youtube.com/watch?v=ySus5ZS0b94
+https://grey-escape-585635.postman.co/workspace/openai~58955859-8d1a-4ab2-a76b-a944e1267c71/history/29140939-785be0dc-4a36-4812-9075-9eeee8b8c05b
+https://portal.singlestore.com/organizations/83e0c1bd-bdcd-48b7-8ffb-1ec8417e4ccc/workspaces/6056bc98-bb32-439f-9684-b59403bd3dc1
+
+Clustering, searching ( most used), recommendations, classifications
+
+
+https://www.youtube.com/watch?v=Wxx1KUWJFv4
+
+Langchain language model.
+
+
+Prompt Templates "hey tell me {topic}"
+Models (gpt4, hugginface,etc...)
+Chain is when we chain together different promps.
+
+https://www.youtube.com/watch?v=z_Rqo5TtJpU
+
+
